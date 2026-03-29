@@ -14,7 +14,7 @@
    ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝   ╚═╝   ╚══════╝
 ```
 
-**Open source tools. Production-ready MVPs. Custom software — built with intent.**
+**Open source tools. Production-ready MVPs. Custom software - built with intent.**
 
 [![Repos](https://img.shields.io/badge/GitHub-Repos-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/orgs/configkits/repositories)
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](https://opensource.org/licenses/MIT)
@@ -29,7 +29,7 @@
 
 ## ` What is ConfigKits? `
 
-> *We're a small software organisation that builds three kinds of things — and we build all three seriously.*
+> *We builds three kinds of things - and we build all three seriously.*
 
 ConfigKits sits at the intersection of **open source craft**, **product thinking**, and **client delivery**. We don't just ship code. We ship things that are genuinely usable, maintainable, and worth someone's time.
 
@@ -53,28 +53,6 @@ ConfigKits sits at the intersection of **open source craft**, **product thinking
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
-
-<br />
-
----
-
-## ` Our Stack `
-
-We build with tools we trust and have shipped with in production.
-
-<div align="center">
-
-| Layer | Technologies |
-|---|---|
-| **Language** | TypeScript · JavaScript |
-| **Frontend** | React · Next.js · Tailwind CSS · Vite |
-| **Backend** | Node.js · Express · tRPC |
-| **Database** | PostgreSQL · Supabase · Prisma |
-| **Auth** | Supabase Auth · JWT |
-| **Infra** | Vercel · Railway · GitHub Actions |
-| **Payments** | Stripe |
-
-</div>
 
 <br />
 
@@ -119,7 +97,6 @@ Building something and need a team that ships?
   → Frontend systems         Component libraries, design systems, migrations
   → Technical consulting     Architecture review, code quality, team enablement
 ```
-
 
 <br />
 
